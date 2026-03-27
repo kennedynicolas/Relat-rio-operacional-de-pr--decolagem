@@ -1,4 +1,4 @@
-# Relat-rio-operacional-de-pr--decolagem
+# Relatorio-operacional-de-predecolagem
 Atividade integradora FIAP Primeira Fase
 
 Link do repositório: https://github.com/kennedynicolas/Relat-rio-operacional-de-pr--decolagem
