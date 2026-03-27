@@ -1,6 +1,8 @@
 # Relat-rio-operacional-de-pr--decolagem
 Atividade integradora FIAP Primeira Fase
 
+Link do repositório: https://github.com/kennedynicolas/Relat-rio-operacional-de-pr--decolagem
+
 Descriação do funcionamento do código:
 Este algoritmo lê dados do interior de um foguete prestas a ser lançado com o intuito de autorizar ou não o seu lançamento.
 Ele realiza checagens  através de funções, que adicionam erros analisados a uma lista de erros locais. Ao fim da função, esse lista de erros local é adicionada a uma lista de erros geral.
